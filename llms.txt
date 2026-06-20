@@ -1,4 +1,4 @@
-# Tu calor me atrapa
+# Tu calor me atrapa, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Tu calor me atrapa |
+| **Title** | Tu calor me atrapa, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-calor-me-atrapa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tu calor me atrapa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-calor-me-atrapa/) |
+| **Get License** | [Get License For Tu calor me atrapa, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-calor-me-atrapa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú tienes el control, baby, sabes que es así,
+> La pista está brillando pero yo te veo a ti.
+> Tu calor me atrapa, me pierdo en tu mirar,
+> No hay nadie a nuestro lado, solos en el lugar.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `4b48b3c9095220c789d0632de3849e466f247ce2f12acc4000e566c8d42755f7` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

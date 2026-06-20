@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu calor me atrapa, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Tu calor me atrapa, Vol. 2** (tu-calor-me-atrapa-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T02:10:25.400277 | `v1` | `4b48b3c9095220c789d0632de3849e466f247ce2f12acc4000e566c8d42755f7` | `eb9278de6ba90460f587cce723081c13b75cd4f7f6f794e4e02dd51ac8d10cc9` | `2026-06-21_tu-calor-me-atrapa-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
